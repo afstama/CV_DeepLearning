@@ -1,5 +1,3 @@
 # CV_DeepLearning
 
-Here, we can actually use version control.
-Feel free to make new branches/dirs/files/..., just keep thing structured.
-In the kaggle notebook, we can just write about the main experiments models and findings.
+link to resnet weights: https://drive.google.com/file/d/1d8-l2lWTP_P88HWIPndf-_8x0fTonh4H/view?usp=drive_link
